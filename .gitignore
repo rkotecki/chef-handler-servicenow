@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+*.gem
+=======
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# rspec failure tracking
+.rspec_status
+>>>>>>> 1a1f38ed4ebc7d4824084d84be98764a059699b0
